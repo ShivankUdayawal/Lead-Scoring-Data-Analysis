@@ -11,3 +11,8 @@ Now, although X Education is getting a lot of leads, it has a very low lead conv
 There are many leads produced in the first stage (top), but only a handful of them become paying clients in the second stage (bottom). In order to obtain a better lead conversion, you need to nurture the potential leads properly in the intermediate stage (e.g., educating the leads about the product, communicating frequently, etc.).
 
 X Education wishes to choose the most promising leaders, that is to say leader, who are probably transformed into payment of the clientele. The Company requires you to build a model where you need to assign a note on leaders on each leaders, such as customers with higher main indicator H, have a higher conversion chance and customers with a level of higher foreground evaluation have a lower conversion chance.
+
+### Problem Statement :
+ * X Education has appointed you to help them select the most promising leads, i.e. the leads that are most likely to convert into paying customers.
+ * The company requires you to build a model wherein you need to assign a lead score to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance.
+ * The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
