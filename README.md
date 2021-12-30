@@ -20,3 +20,14 @@ X Education wishes to choose the most promising leaders, that is to say leader, 
 ### Objective:
  * Build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads.
  * A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.
+
+### Description of Dataset :
+   **1. Prospect ID —** A unique ID with which the customer is identified.
+
+   **2. Lead Number —** A lead number assigned to each lead procured.
+
+   **3. Lead Origin —** The origin identifier with which the customer was identified to be a lead. Includes API, Landing Page Submission, etc.
+
+   **4. Lead Source —** The source of the lead. Includes Google, Organic Search, Olark Chat, etc.
+
+   **5. Do Not Email -** An indicator variable selected by the customer wherein they select whether of not they want to be emailed about the course or not.
