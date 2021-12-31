@@ -31,3 +31,13 @@ X Education wishes to choose the most promising leaders, that is to say leader, 
    **4. Lead Source —** The source of the lead. Includes Google, Organic Search, Olark Chat, etc.
 
    **5. Do Not Email -** An indicator variable selected by the customer wherein they select whether of not they want to be emailed about the course or not.
+   
+   **6. Do Not Call —** An indicator variable selected by the customer wherein they select whether of not they want to be called about the course or not.
+
+   **7. Converted —** The target variable. Indicates whether a lead has been successfully converted or not.
+
+   **8. Total Visits —** The total number of visits made by the customer on the website.
+
+   **9. Total Time Spent on Website —** The total time spent by the customer on the website.
+
+   **10. Page Views Per Visit —** Average number of pages on the website viewed during the visits.
