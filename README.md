@@ -41,3 +41,13 @@ X Education wishes to choose the most promising leaders, that is to say leader, 
    **9. Total Time Spent on Website —** The total time spent by the customer on the website.
 
    **10. Page Views Per Visit —** Average number of pages on the website viewed during the visits.
+   
+   **11. Last Activity — Last activity performed by the customer. Includes Email Opened, Olark Chat Conversation, etc.
+
+   **12. Country —** The country of the customer.
+
+   **13. Specialization —** The industry domain in which the customer worked before. Includes the level ‘Select Specialization’ which means the customer had not selected this option while filling the form.
+
+   **14. How did you hear about X Education —** The source from which the customer heard about X Education.
+
+   **15. What is your current occupation —** Indicates whether the customer is a student, unemployed or employed.
