@@ -42,7 +42,7 @@ X Education wishes to choose the most promising leaders, that is to say leader, 
 
    **10. Page Views Per Visit —** Average number of pages on the website viewed during the visits.
    
-   **11. Last Activity — Last activity performed by the customer. Includes Email Opened, Olark Chat Conversation, etc.
+   **11. Last Activity —** Last activity performed by the customer. Includes Email Opened, Olark Chat Conversation, etc.
 
    **12. Country —** The country of the customer.
 
