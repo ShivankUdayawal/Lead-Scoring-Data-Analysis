@@ -51,3 +51,23 @@ X Education wishes to choose the most promising leaders, that is to say leader, 
    **14. How did you hear about X Education —** The source from which the customer heard about X Education.
 
    **15. What is your current occupation —** Indicates whether the customer is a student, unemployed or employed.
+   
+   **16. What matters most to you in choosing this course An option selected by the customer —** indicating what is their main motto behind doing this course.
+
+   **17. Search —** Indicating whether the customer had seen the ad in any of the listed items.
+
+   **18. Magazine**
+
+   **19. Newspaper Article**
+
+   **20. X Education Forums**
+
+   **21. Newspaper**
+
+   **22. Digital Advertisement**
+
+   **23. Through Recommendations —** Indicates whether the customer came in through recommendations.
+
+   **24. Receive More Updates About Our Courses —** Indicates whether the customer chose to receive more updates about the courses.
+
+   **25. Tags —** Tags assigned to customers indicating the current status of the lead.
