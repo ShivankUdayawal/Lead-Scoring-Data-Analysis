@@ -99,3 +99,8 @@ X Education wishes to choose the most promising leaders, that is to say leader, 
 
 ### Dataset Source :
 https://www.kaggle.com/amritachatterjee09/lead-scoring-dataset
+
+
+![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/01.jpg)
+
+![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/02.jpg)
