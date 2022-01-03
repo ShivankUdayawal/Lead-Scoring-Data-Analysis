@@ -71,3 +71,31 @@ X Education wishes to choose the most promising leaders, that is to say leader, 
    **24. Receive More Updates About Our Courses —** Indicates whether the customer chose to receive more updates about the courses.
 
    **25. Tags —** Tags assigned to customers indicating the current status of the lead.
+
+   **26. Lead Quality —** Indicates the quality of lead based on the data and intuition the employee who has been assigned to the lead.
+
+   **27. Update me on Supply Chain Content —** Indicates whether the customer wants updates on the Supply Chain Content.
+
+   **28. Get updates on DM Content —** Indicates whether the customer wants updates on the DM Content.
+
+   **29. Lead Profile —** A lead level assigned to each customer based on their profile.
+
+   **30. City —** The city of the customer.
+
+   **31. Asymmetric Activity Index —** An index and score assigned to each customer based on their activity and their profile
+
+   **32. Asymmetric Profile Index**
+
+   **33. Asymmetric Activity Score**
+
+   **34. Asymmetric Profile Score**
+
+   **35. I agree to pay the amount through cheque —** Indicates whether the customer has agreed to pay the amount through cheque or not.
+
+   **36. a free copy of Mastering The Interview —** Indicates whether the customer wants a free copy of ‘Mastering the Interview’ or not.
+
+   **37. Last Notable Activity —** The last notable activity performed by the student.
+
+
+### Dataset Source :
+https://www.kaggle.com/amritachatterjee09/lead-scoring-dataset
