@@ -101,6 +101,24 @@ X Education wishes to choose the most promising leaders, that is to say leader, 
 https://www.kaggle.com/amritachatterjee09/lead-scoring-dataset
 
 
+### Exploratory Data Analysis
+
 ![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/01.jpg)
 
 ![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/02.jpg)
+
+![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/03.jpg)
+
+![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/04.jpg)
+
+![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/05.jpg)
+
+![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/06.jpg)
+
+![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/07.jpg)
+
+![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/08.jpg)
+
+![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/09.jpg)
+
+![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/10.jpg)
