@@ -136,3 +136,9 @@ https://www.kaggle.com/amritachatterjee09/lead-scoring-dataset
 ![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/16.jpg)
 
 ![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/17.jpg)
+
+![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/18.jpg)
+
+![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/19.jpg)
+
+![](https://github.com/ShivankUdayawal/Lead-Scoring-Data-Analysis/blob/main/Data%20Visualization/20.jpg)
